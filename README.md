@@ -34,6 +34,21 @@ This project analyzes customer behavior in an e-commerce platform. The analysis 
 - Wrote SQL queries to answer business questions.
 - Identified key user behavior patterns.
 
+## 🔑 Key Insights
+
+- Product views account for the majority of user interactions, while purchases represent only a small fraction of all events.
+- The largest user drop-off occurs between the product view and add-to-cart stages, indicating that this is the primary bottleneck in the conversion funnel.
+- Users who add products to the cart have a substantially higher probability of completing a purchase.
+- SQL analysis identified product performance, customer behavior, and revenue patterns that can support business decision-making.
+- The project demonstrates a complete analytical workflow: data preparation, EDA, SQL analysis, and conversion funnel evaluation.
+
+  ## 💼 Business Recommendations
+
+- Improve product pages to increase the View → Cart conversion rate.
+- Analyze high-performing product categories and replicate their successful practices.
+- Investigate reasons for user abandonment before the cart stage.
+- Use customer behavior insights to optimize marketing and retention strategies.
+
 ## 📁 Dataset
 
 The dataset is publicly available on Kaggle.

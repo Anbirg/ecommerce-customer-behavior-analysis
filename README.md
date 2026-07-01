@@ -6,10 +6,10 @@ This project analyzes customer behavior in an e-commerce platform. The analysis 
 
 ## 📂 Repository Structure
 
-- `DataPreparation+ EAD.ipynb` — data cleaning and preprocessing.
-- `Funnel.ipynb` — conversion funnel analysis.
-- `SQL_analysis.ipynb` — SQL queries for business analysis.
-
+- `01_data_preparation_eda.ipynb` — data cleaning, preprocessing, and exploratory data analysis.
+- `02_funnel_analysis.ipynb` — conversion funnel analysis and user drop-off investigation.
+- `03_sql_analysis.ipynb` — SQL queries for business analysis.
+  
 ## 🛠️ Tools & Technologies
 
 - Python
